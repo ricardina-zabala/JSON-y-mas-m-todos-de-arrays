@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "Nombre": "Fierce",
+      "Modelo": "FM18SI29AM211",
+      "Rodado": 16,
+      "Año de fabricación": 2019,
+      "Color": "Celeste",
+      "Peso en Kilogramos": 13,
+      "Tipo": "Montañera",
+      "Precio":400,
+      "Vendida":false
+    },
+    {
+        "id": 2,
+        "Nombre": "Shifter",
+      "Modelo": "FM18F29AM210",
+      "Rodado": 26,
+      "Año de fabricación": 2020,
+      "Color": "Negro",
+      "Peso en Kilogramos": 15,
+      "Tipo": "Paseo",
+      "Precio":700,
+      "Vendida":true
+    }, 
+    {
+        "id":3,
+        "Nombre": "Olmo",
+      "Modelo": "Ruta",
+      "Rodado": 26,
+      "Año de fabricación": 2022,
+      "Color": "Gris",
+      "Peso en Kilogramos": 17,
+      "Tipo": "Retro",
+      "Precio":500,
+      "Vendida":false
+    }, 
+    {
+        "id":4,
+        "Nombre": "Battle",
+      "Modelo": "Regal",
+      "Rodado": 29,
+      "Año de fabricación": 2019,
+      "Color": "Rojo",
+      "Peso en Kilogramos": 13,
+      "Tipo": "Triatlón",
+      "Precio":770,
+      "Vendida":false
+    },
+    {
+        "id":5, 
+    "Nombre": "TopMega",
+    "Modelo": "Sunshine",
+    "Rodado": 29,
+    "Año de fabricación": 2019,
+    "Color": "Naranja",
+    "Peso en Kilogramos": 15,
+    "Tipo": "Montañera",
+    "Precio":780,
+    "Vendida":true
+    },
+    {
+        "id": 6,
+        "Nombre": "SLP",
+        "Modelo": "Techno",
+        "Rodado":16,
+        "Año de fabricación": 2020,
+        "Color": "Verde",
+        "Peso en Kilogramos": 17,
+        "Tipo": "Retro",
+        "Precio":800,
+        "Vendida":true
+    }
+  ]
